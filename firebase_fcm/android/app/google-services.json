@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433319341779",
+    "project_id": "messaging-app-6dc07",
+    "storage_bucket": "messaging-app-6dc07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433319341779:android:e319758ce35ccbb416ae26",
+        "android_client_info": {
+          "package_name": "com.example.firebase_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433319341779-3ua9kcc41htarmgipc7hv9mo1efn6bbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdxXL1PnYnSGEAe3hdIz9Zc9MXSxWOHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433319341779-3ua9kcc41htarmgipc7hv9mo1efn6bbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
